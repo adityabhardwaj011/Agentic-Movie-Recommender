@@ -22,7 +22,7 @@ This project is a sophisticated, conversational AI agent designed to provide int
 
 - **Backend:** Python
 - **AI & Machine Learning:**
-  - **LLM Framework:** Langchain
+  - **LLM Framework:** Langchain/LangGraph
   - **LLM:** Google Gemini
   - **Embeddings:** `sentence-transformers`
   - **Vector Store:** ChromaDB
