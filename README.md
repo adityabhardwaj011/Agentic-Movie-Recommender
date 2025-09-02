@@ -22,7 +22,7 @@ This project is a sophisticated, conversational AI agent designed to provide int
 
 - **Backend:** Python
 - **AI & Machine Learning:**
-  - **LLM Framework:** LangGraph
+  - **LLM Framework:** Langchain
   - **LLM:** Google Gemini
   - **Embeddings:** `sentence-transformers`
   - **Vector Store:** ChromaDB
@@ -70,8 +70,7 @@ This will create a `chroma_db` folder in your project directory. This is a one-t
 
 #### **Step 2.1: Clone the Repository**
 ```bash
-git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/adityabhardwaj011/Agentic-Movie-Recommender.git
 ```
 
 #### **Step 2.2: Create a Virtual Environment**
