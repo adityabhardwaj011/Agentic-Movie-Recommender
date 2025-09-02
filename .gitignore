@@ -10,6 +10,7 @@ chroma_db/
 # IDE and OS files
 .vscode/
 .DS_Store
+desktop.ini
 
 # Kaggle notebook
 Kaggle/
