@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Local data and secrets
+data/
+chroma_db/
+.env
+
+# IDE and OS files
+.vscode/
+.DS_Store
+
+# Kaggle notebook
+Kaggle/
